@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "485c839896a2f3d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f47ba32b0c14785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81fc4e2f39b40404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "剪辑接单.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "剪辑接单"
+            }
+          },
+          {
+            "id": "c3b0e1fe1cd2dc43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前哨站folder/前哨站知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "前哨站知识"
+            }
+          },
+          {
+            "id": "b3c9ad4ca4d764e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "请问你要给你的孩子留下什么.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "请问你要给你的孩子留下什么"
+            }
+          },
+          {
+            "id": "fb4c33d6375a44fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前哨站folder/前哨站知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "前哨站知识"
+            }
+          },
+          {
+            "id": "9336837c99348154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "publish/Windows C盘清理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows C盘清理"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e4d959864a6f586",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a423142d31e38d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6c779ca77d00bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3291ccd31cc2884e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "家庭",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "91bf630a477ca4b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4a1c8e42f47b6f35",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4e9af957497b2ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "958650908dea41aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "剪辑接单.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 剪辑接单"
+            }
+          },
+          {
+            "id": "5c9e652233249a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "96ab0886ac40867f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc6290d00e51f0dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "45b9a9964c2b71d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "77dc0b08b8f8f73e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1a6c779ca77d00bf",
+  "lastOpenFiles": [
+    "Pasted image 20260120103637.png",
+    "Pasted image 20260120103546.png",
+    "Pasted image 20260120103203.png",
+    "Pasted image 20260120102921.png",
+    "Pasted image 20260120102808.png",
+    "Pasted image 20260120101441.png",
+    "Pasted image 20260120101228.png",
+    "Pasted image 20260120101127.png",
+    "Pasted image 20260120100500.png",
+    "屏幕截图 2026-01-20 093637.png",
+    "publish/Windows C盘清理.md",
+    "Solidity coding process.md",
+    "Untitled.md",
+    "Untitled.base",
+    "VS后续下载设置.md",
+    "剪辑之外事.md",
+    "今日任务.md",
+    "剪辑接单.md",
+    "前哨站folder/前哨站知识.md",
+    "Welcome.md",
+    "publish",
+    "Pasted image 20251229130010.png",
+    "模电题.md",
+    "前哨站folder/老王和老婆关于择偶问题的探讨.md",
+    "前哨站folder/请问你要给你的孩子留下什么.md",
+    "前哨站folder/有史以来最刁钻的话题.md",
+    "前哨站folder/新年快乐兼聊一聊跨年.md",
+    "MATLAB.md",
+    "数电题.md",
+    "前哨站folder/前哨站一个很残酷的世界真相.md",
+    "2026展望.md",
+    "前哨站folder/从有钱人那里学来的顶级思维.md",
+    "前哨站folder/竟然没人从这个角度给省钱建议.md",
+    "2025 年终总结.md",
+    "前哨站folder/从两个对立的概念说开去.md",
+    "前哨站folder/聊一聊新时代我的个人策略.md",
+    "前哨站folder/家庭构建补充.md",
+    "前哨站folder/关于平庸让人细思极恐的认知.md",
+    "前哨站folder",
+    "WEB3",
+    "Untitled.canvas",
+    "learning.canvas"
+  ]
+}

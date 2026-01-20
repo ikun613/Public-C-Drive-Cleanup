@@ -1,0 +1,17 @@
+# 忽略所有内容
+*
+
+# 允许 git 本身
+!.gitignore
+
+# 允许 Obsidian 配置（可选）
+!.obsidian/
+!.obsidian/**
+
+# 只允许 publish 文件夹
+!publish/
+!publish/**
+
+# 忽略常见垃圾
+.DS_Store
+Thumbs.db
