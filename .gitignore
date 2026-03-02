@@ -12,6 +12,11 @@
 !publish/
 !publish/**
 
+# 允许飞书同步脚本与说明
+!scripts/
+!scripts/**
+!Feishu同步说明.md
+
 # 忽略常见垃圾
 .DS_Store
 Thumbs.db
